@@ -1,0 +1,800 @@
+/* screen - reservation */
+
+.reservation {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 3003px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .reservation .group-6 {
+    align-items: center;
+    background-color: #152e44;
+    display: flex;
+    height: 137px;
+    justify-content: flex-end;
+    left: 0;
+    min-width: 1440px;
+    padding: 17px 75px;
+    position: fixed;
+    top: 0;
+    z-index: 5;
+  }
+  
+  .reservation .logo {
+    align-self: flex-end;
+    height: 102px;
+    width: 153px;
+  }
+  
+  .reservation .overlap-group8 {
+    height: 64px;
+    margin-left: 89px;
+    margin-top: 13.0px;
+    position: relative;
+    width: 861px;
+  }
+  
+  .reservation .rubriques {
+    align-items: flex-start;
+    display: flex;
+    gap: 5px;
+    left: 0;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    width: 854px;
+  }
+  
+  .reservation .frame-5 {
+    height: 44px;
+    min-width: 97px;
+    position: relative;
+  }
+  
+  .reservation .acceuil {
+    color: var(--white);
+    font-weight: 700;
+    left: 10px;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+  }
+  
+  .reservation .frame-4 {
+    height: 44px;
+    min-width: 197px;
+    position: relative;
+  }
+  
+  .reservation .guide-de-voyage {
+    color: var(--white);
+    font-weight: 700;
+    left: 10px;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+  }
+  
+  .reservation .frame-3 {
+    height: 44px;
+    min-width: 153px;
+    position: relative;
+  }
+  
+  .reservation .destinations {
+    left: 10px;
+    position: absolute;
+    top: 9px;
+  }
+  
+  .reservation .frame-2 {
+    height: 44px;
+    min-width: 146px;
+    position: relative;
+  }
+  
+  .reservation .reservation-1 {
+    color: var(--white);
+    font-weight: 700;
+    left: 10px;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+  }
+  
+  .reservation .frame-6 {
+    height: 44px;
+    min-width: 104px;
+    position: relative;
+  }
+  
+  .reservation .place {
+    color: var(--white);
+    font-weight: 700;
+    left: 10px;
+    position: absolute;
+    top: 9px;
+  }
+  
+  .reservation .vector {
+    height: 29px;
+    left: 846px;
+    position: absolute;
+    top: 11px;
+    width: 15px;
+  }
+  
+  .reservation .vector-1 {
+    height: 25px;
+    margin-left: 30px;
+    width: 31px;
+  }
+  
+  .reservation .vector-2 {
+    height: 25px;
+    margin-left: 31px;
+    width: 39px;
+  }
+  
+  .reservation .group-1 {
+    height: 25px;
+    margin-left: 29px;
+    margin-top: 0.04px;
+    width: 25px;
+  }
+  
+  .reservation .overlap-group9 {
+    height: 603px;
+    margin-top: 138px;
+    position: relative;
+    width: 1440px;
+    z-index: 1;
+  }
+  
+  .reservation .basilinstagram-solid {
+    height: 24px;
+    left: 474px;
+    position: absolute;
+    top: 574px;
+    width: 24px;
+  }
+  
+  .reservation .rectangle-56 {
+    height: 603px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .reservation .faites-confiance-en-notre-exprience {
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 193px;
+  }
+  
+  .reservation .span1 {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xxl);
+    font-weight: 700;
+  }
+  
+  .reservation .une-quipe-dexperts {
+    color: var(--white);
+    font-weight: 400;
+    left: 16px;
+    line-height: normal;
+    position: absolute;
+    top: 56px;
+    white-space: nowrap;
+  }
+  
+  .reservation .overlap-group10 {
+    height: 1496px;
+    margin-top: 5px;
+    position: relative;
+    width: 1440px;
+    z-index: 3;
+  }
+  
+  .reservation .rectangle-64 {
+    height: 683px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .reservation .overlap-group {
+    align-items: center;
+    background-color: var(--persian-green);
+    border: 1px solid;
+    border-color: var(--tulip-tree);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    left: 246px;
+    min-height: 1149px;
+    padding: 66px 71px;
+    position: absolute;
+    top: 347px;
+    width: 915px;
+  }
+  
+  .reservation .overlap-group5 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 2px solid;
+    border-color: var(--persian-green);
+    border-radius: 10px;
+    display: flex;
+    height: 77px;
+    margin-right: 8.0px;
+    min-width: 757px;
+    padding: 22px 48px;
+  }
+  
+  .reservation .prnom {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .reservation .overlap-group1 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 2px solid;
+    border-color: var(--persian-green);
+    border-radius: 10px;
+    display: flex;
+    height: 77px;
+    margin-right: 8.0px;
+    margin-top: 53px;
+    min-width: 757px;
+    padding: 22px 49px;
+  }
+  
+  .reservation .nom {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .reservation .overlap-group2 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 2px solid;
+    border-color: var(--persian-green);
+    border-radius: 10px;
+    display: flex;
+    height: 77px;
+    margin-right: 2.0px;
+    margin-top: 53px;
+    min-width: 757px;
+    padding: 22px 45px;
+  }
+  
+  .reservation .numro {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .reservation .overlap-group6 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 2px solid;
+    border-color: var(--persian-green);
+    border-radius: 10px;
+    display: flex;
+    height: 77px;
+    margin-left: 4.0px;
+    margin-top: 53px;
+    min-width: 757px;
+    padding: 21px 45px;
+  }
+  
+  .reservation .place-1 {
+    letter-spacing: 0;
+    min-height: 30px;
+  }
+  
+  .reservation .overlap-group4 {
+    align-items: flex-start;
+    align-self: flex-end;
+    background-color: var(--white);
+    border: 2px solid;
+    border-color: var(--persian-green);
+    border-radius: 10px;
+    display: flex;
+    height: 77px;
+    margin-right: 3px;
+    margin-top: 53px;
+    min-width: 757px;
+    padding: 13px 45px;
+  }
+  
+  .reservation .sujet {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .reservation .overlap-group3 {
+    align-items: flex-start;
+    align-self: flex-end;
+    background-color: var(--white);
+    border: 2px solid;
+    border-color: var(--persian-green);
+    border-radius: 10px;
+    display: flex;
+    height: 245px;
+    margin-top: 53px;
+    min-width: 757px;
+    padding: 22px 51px;
+  }
+  
+  .reservation .message {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .reservation .frame-13 {
+    align-items: flex-start;
+    background-color: var(--tulip-tree);
+    border-radius: 150px;
+    display: flex;
+    gap: 10px;
+    height: 77px;
+    margin-right: 8.0px;
+    margin-top: 13px;
+    padding: 20px 250px 10px 277px;
+    position: relative;
+    width: 745px;
+  }
+  
+  .reservation .envoyer {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .reservation .group-20 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    left: 435px;
+    min-height: 287px;
+    position: absolute;
+    top: 18px;
+    width: 536px;
+  }
+  
+  .reservation .faite-votre-reservations {
+    color: var(--black);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 8.0px;
+    min-height: 43px;
+    min-width: 528px;
+  }
+  
+  .reservation .mailtoinfomywaycom {
+    color: #40586c;
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 14.0px;
+    margin-top: 50px;
+    min-height: 43px;
+    min-width: 438px;
+    text-decoration: underline;
+  }
+  
+  .reservation .text-1 {
+    color: var(--deep-space-sparkle);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 64.0px;
+    margin-top: 36px;
+    min-height: 54px;
+    width: 274px;
+  }
+  
+  .reservation .contacter-nous {
+    color: var(--black);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 71.0px;
+    margin-top: 18px;
+    min-height: 43px;
+    min-width: 281px;
+  }
+  
+  .reservation .component-3 {
+    align-items: center;
+    background-color: #152e44;
+    display: flex;
+    flex-direction: column;
+    gap: 85px;
+    margin-top: 133px;
+    min-height: 628px;
+    width: 1440px;
+    z-index: 4;
+  }
+  
+  .reservation .flex-row {
+    gap: 22px;
+    margin-right: 91.0px;
+    margin-top: 66px;
+    min-width: 1055px;
+  }
+  
+  .reservation .flex-col {
+    flex-direction: column;
+    gap: 44px;
+    margin-top: 5px;
+    min-height: 287px;
+    width: 334px;
+  }
+  
+  .reservation .contactez-nous {
+    color: var(--white);
+    font-weight: 700;
+    line-height: normal;
+    min-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .reservation .flex-row-1 {
+    align-items: flex-start;
+    display: flex;
+    gap: 44px;
+    height: 219px;
+    min-width: 334px;
+  }
+  
+  .reservation .vector-container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 55px;
+    min-height: 218px;
+    width: 40px;
+  }
+  
+  .reservation .vector-3 {
+    height: 36px;
+    width: 36px;
+  }
+  
+  .reservation .vector-4 {
+    height: 32px;
+    width: 40px;
+  }
+  
+  .reservation .vector-5 {
+    height: 40px;
+    margin-left: 4px;
+    width: 32px;
+  }
+  
+  .reservation .flex-col-1 {
+    align-items: flex-start;
+    align-self: flex-end;
+    min-height: 204px;
+    width: 250px;
+  }
+  
+  .reservation .text-2 {
+    color: var(--white);
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 1px;
+    min-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .reservation .infomywaycom {
+    color: var(--white);
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 1px;
+    margin-top: 59px;
+    min-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .reservation .address {
+    color: var(--white);
+    margin-top: 73px;
+    min-height: 24px;
+  }
+  
+  .reservation .flex-row-2 {
+    align-items: flex-start;
+    display: flex;
+    gap: 92px;
+    height: 356px;
+    min-width: 699px;
+  }
+  
+  .reservation .flex-col-2 {
+    align-items: flex-start;
+    min-height: 356px;
+    width: 397px;
+  }
+  
+  .reservation .actualits-populaires {
+    color: var(--white);
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 7px;
+    min-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .reservation .flex-container {
+    flex-direction: column;
+    gap: 15px;
+    height: 63px;
+    margin-top: 64px;
+    position: relative;
+    width: 397px;
+  }
+  
+  .reservation .text {
+    color: var(--persian-green);
+    font-weight: 700;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: 397px;
+  }
+  
+  .reservation .address-1 {
+    color: var(--deep-space-sparkle);
+    margin-top: 18px;
+    min-height: 24px;
+  }
+  
+  .reservation .top-10-des-meilleurs {
+    color: var(--persian-green);
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 4px;
+    margin-top: 61px;
+    min-height: 48px;
+  }
+  
+  .reservation .address-2 {
+    color: var(--deep-space-sparkle);
+    margin-left: 1px;
+    margin-top: 30px;
+    min-height: 24px;
+  }
+  
+  .reservation .flex-col-3 {
+    align-items: flex-end;
+    gap: 54px;
+    min-height: 355px;
+    width: 210px;
+  }
+  
+  .reservation .flex-row-3 {
+    align-items: flex-end;
+    display: flex;
+    gap: 25px;
+    height: 237px;
+    min-width: 210px;
+  }
+  
+  .reservation .icon-media-record {
+    height: 164px;
+    margin-bottom: 1px;
+    width: 10px;
+  }
+  
+  .reservation .flex-col-4 {
+    align-items: flex-start;
+    min-height: 237px;
+    width: 175px;
+  }
+  
+  .reservation .liens {
+    color: var(--white);
+    font-weight: 700;
+    line-height: normal;
+    min-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .reservation .guide-de-voyage-1 {
+    color: var(--white);
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 34px;
+    min-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .reservation .destinations-1 {
+    margin-top: 25px;
+    min-height: 24px;
+  }
+  
+  .reservation .rservation {
+    color: var(--white);
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 3px;
+    margin-top: 26px;
+    min-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .reservation .place-2 {
+    color: var(--white);
+    font-weight: 700;
+    margin-left: 4px;
+    margin-top: 32px;
+    min-height: 24px;
+  }
+  
+  .reservation .frame-11 {
+    align-items: flex-start;
+    background-color: var(--tulip-tree);
+    display: flex;
+    gap: 10px;
+    margin-right: 2px;
+    padding: 20px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .reservation .contacter-nous-1 {
+    color: var(--white);
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .reservation .overlap-group7 {
+    align-items: center;
+    background-color: #11263b;
+    display: flex;
+    height: 121px;
+    justify-content: flex-end;
+    min-width: 1440px;
+    padding: 28px 70px;
+  }
+  
+  .reservation .vector-6 {
+    height: 25px;
+    width: 25px;
+  }
+  
+  .reservation .address-3 {
+    color: var(--deep-space-sparkle);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-s2);
+    letter-spacing: 0;
+    margin-left: 9px;
+    margin-top: 5.0px;
+    min-height: 18px;
+    min-width: 440px;
+  }
+  
+  .reservation .group-5 {
+    height: 33px;
+    margin-bottom: 7.61px;
+    margin-left: 76px;
+    width: 125px;
+  }
+  
+  .reservation .politique-de-confidentialit {
+    color: var(--deep-space-sparkle);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-s2);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 201px;
+    margin-top: 1.0px;
+    min-height: 18px;
+    min-width: 214px;
+    white-space: nowrap;
+  }
+  
+  .reservation .overlap-group-1 {
+    align-items: flex-start;
+    align-self: flex-end;
+    background-color: #5dcad1;
+    border-radius: 2px;
+    display: flex;
+    height: 62px;
+    margin-left: 59px;
+    min-width: 70px;
+    padding: 22px 24px;
+  }
+  
+  .reservation .icon-chevron-top {
+    height: 15px;
+    width: 22px;
+  }
+  
+  .reservation .rectangle-16 {
+    height: 283px;
+    margin-left: -2313.5px;
+    margin-top: 510px;
+    width: 331px;
+    z-index: 2;
+  }
+  
+  .reservation .address-4 {
+    font-weight: 700;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .reservation .destinations-2 {
+    color: var(--white);
+    font-weight: 700;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .reservation .flex {
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .reservation .flex-col-5 {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .reservation .place-3 {
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
